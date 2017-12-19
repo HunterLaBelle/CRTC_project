@@ -1,0 +1,20 @@
+'''
+this code is suppossed to explain the user input functions and the comments above them is going to be explaining when 
+they need to be put in and what they need to say
+'''
+
+'''
+for when player enters room
+'''
+
+def instructions:
+  print ("Use WASD to move, complete the activites ahead.")
+
+if player in room:
+  print instructions
+  wait 10 seconds
+  
+  
+'''
+meant to display those instructions then fade after 10 seconds.
+'''
